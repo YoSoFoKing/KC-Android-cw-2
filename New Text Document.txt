@@ -1,0 +1,25 @@
+public class Main
+{
+	public static void main(String[] args) {
+	    
+	    // تمرين 1 
+	    
+	    String name = "yousef";
+	    
+	    int age = 17;
+	    
+		System.out.println("Hello my name is " + name + ",I am " + age + " years old." );
+		
+		
+		// تمرين 2
+		
+		int hight = 165;
+		
+		if( hight > 160 ){
+		    System.out.println( " you can enter the train" );
+	}   else{
+	        System.out.println( "you can not enter the train" );
+	}
+	
+}
+}
